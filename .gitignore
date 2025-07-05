@@ -16,3 +16,5 @@ Thumbs.db
 # Env files
 .env
 .env.local
+
+images/*.mp4
